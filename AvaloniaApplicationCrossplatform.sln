@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApplicationCrossplatform", "AvaloniaApplicationCrossplatform\AvaloniaApplicationCrossplatform\AvaloniaApplicationCrossplatform.csproj", "{254290C9-080E-4D58-830D-B44C87E1C0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApplicationCrossplatform.Desktop", "AvaloniaApplicationCrossplatform\AvaloniaApplicationCrossplatform.Desktop\AvaloniaApplicationCrossplatform.Desktop.csproj", "{FB43956E-4B93-4680-86F0-5E1A53A7484F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApplicationCrossplatform.Browser", "AvaloniaApplicationCrossplatform\AvaloniaApplicationCrossplatform.Browser\AvaloniaApplicationCrossplatform.Browser.csproj", "{4C634A22-2042-4461-82D2-B11EAA061BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254290C9-080E-4D58-830D-B44C87E1C0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254290C9-080E-4D58-830D-B44C87E1C0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254290C9-080E-4D58-830D-B44C87E1C0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254290C9-080E-4D58-830D-B44C87E1C0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB43956E-4B93-4680-86F0-5E1A53A7484F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB43956E-4B93-4680-86F0-5E1A53A7484F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB43956E-4B93-4680-86F0-5E1A53A7484F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB43956E-4B93-4680-86F0-5E1A53A7484F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C634A22-2042-4461-82D2-B11EAA061BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C634A22-2042-4461-82D2-B11EAA061BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C634A22-2042-4461-82D2-B11EAA061BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C634A22-2042-4461-82D2-B11EAA061BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
